@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62a07b70.chunk.css",
+    "main.js": "/static/js/main.1ad4d5a3.chunk.js",
+    "main.js.map": "/static/js/main.1ad4d5a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4fab1cfd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4fab1cfd.js.map",
+    "static/css/2.fb346933.chunk.css": "/static/css/2.fb346933.chunk.css",
+    "static/js/2.66f0dd6d.chunk.js": "/static/js/2.66f0dd6d.chunk.js",
+    "static/js/2.66f0dd6d.chunk.js.map": "/static/js/2.66f0dd6d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a1e3f103ef2c1967f1fff0bc886a02ea.js": "/precache-manifest.a1e3f103ef2c1967f1fff0bc886a02ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.62a07b70.chunk.css.map": "/static/css/main.62a07b70.chunk.css.map",
+    "static/js/2.66f0dd6d.chunk.js.LICENSE.txt": "/static/js/2.66f0dd6d.chunk.js.LICENSE.txt",
+    "static/media/breakfast(1).jpg": "/static/media/breakfast(1).27e43d32.jpg",
+    "static/media/breakfast.jpg": "/static/media/breakfast.27e43d32.jpg",
+    "static/media/dinner(1).png": "/static/media/dinner(1).862fd5c7.png",
+    "static/media/dinner.png": "/static/media/dinner.862fd5c7.png",
+    "static/media/drinks(1).png": "/static/media/drinks(1).b027a402.png",
+    "static/media/drinks.png": "/static/media/drinks.b027a402.png",
+    "static/media/food(1).jpg": "/static/media/food(1).0f1930af.jpg",
+    "static/media/food.jpg": "/static/media/food.0f1930af.jpg",
+    "static/media/homepageimg(1).png": "/static/media/homepageimg(1).d09dc85d.png",
+    "static/media/homepageimg.png": "/static/media/homepageimg.d09dc85d.png",
+    "static/media/logo.svg": "/static/media/logo.50d102d4.svg",
+    "static/media/lunch(1).jpg": "/static/media/lunch(1).1ea2d69d.jpg",
+    "static/media/lunch.jpg": "/static/media/lunch.1ea2d69d.jpg",
+    "static/media/nightlife(1).png": "/static/media/nightlife(1).aefd75ca.png",
+    "static/media/nightlife.png": "/static/media/nightlife.aefd75ca.png",
+    "static/media/snacks(1).png": "/static/media/snacks(1).bbb58d62.png",
+    "static/media/snacks.png": "/static/media/snacks.bbb58d62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fab1cfd.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.66f0dd6d.chunk.js",
+    "static/css/main.62a07b70.chunk.css",
+    "static/js/main.1ad4d5a3.chunk.js"
+  ]
+}
